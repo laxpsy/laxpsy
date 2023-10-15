@@ -15,8 +15,8 @@ Anything low-level generally interests me, other than that I'm really getting in
 - Jetpack Compose
 
 ### 📞 Contact Me 
-[LinkedIn](https://www.linkedin.com/in/ansh-gujral-9b2a7a23b/)
-
+[LinkedIn ✔️](https://www.linkedin.com/in/ansh-gujral-9b2a7a23b/)
+[Mail me! 📫](mailto:gujralanshg@gmail.com)
 <!--
 **laxpsy/laxpsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
