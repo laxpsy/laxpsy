@@ -4,7 +4,7 @@ I work in Delta Force, our institutes's web cell. Here's a list of projects I ha
 
 ### 📌 Projects I've Worked On
 - Festember'23 Mobile Application (Tech Stack: Native Android, Kotlin with XML for Layouts. We integrated with Payload CMS for the data for the application.)
-- Pragyan'24 INHOTTS Website (Tech Stack: PHP)
+- Pragyan'24 INHOTTS Website (Tech Stack: HTML, CSS, JS)
 - Pragyan'24 Arcadia Game (Tech Stack: TS, React, Phaser for the Front-End, GoLang for the Back-End. A SQL database and Redis for caching.)
 
 ### 🤝 My interests
