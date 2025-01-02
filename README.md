@@ -1,16 +1,13 @@
 ### 👋 Greetings 
 I'm Ansh Gujral, a developer currently studying at NIT-Tiruchirappalli currently.
-I work in Delta Force, our institutes's web cell. Here's a list of projects I have worked on/am currently working on as a part of Delta Force.
-
-### 📌 Projects I've Worked On
-- Festember'23 Mobile Application (Tech Stack: Native Android, Kotlin with XML for Layouts. We integrated with Payload CMS for the data for the application.)
-- Pragyan'24 INHOTTS Website (Tech Stack: HTML, CSS, JS)
-- Pragyan'24 Arcadia Game (Tech Stack: TS, React, Phaser for the Front-End, GoLang for the Back-End. A SQL database and Redis for caching.)
+I work in Delta Force, our institutes's web cell. I love to read, and document what I read and also build things ocassionally. 
 
 ### 🤝 My interests
-Anything low-level generally interests me, and networks as well; Other than that, I'm always open to diving into new tech stacks and learning new stuff. Each project is an opportunity to learn more and grow as a developer :)
+Anything low-level interests me, and networks as well; Other than that, I'm always open to diving into new tech stacks and learning new stuff. Each project is an opportunity to learn more and grow as a developer :)
 
-### 📞 Contact Me 
+### 🔗 Links
+- [Resume 📰](https://drive.google.com/file/d/1I_H1pEoT_igTbFiBAUDr9lQ3KkMZZZQW/view)
+- [My Website 🌐](https://www.libraryofbabel.xyz/)
 - [LinkedIn ✔️](https://www.linkedin.com/in/ansh-gujral-9b2a7a23b/)  
 - [Mail me! 📫](mailto:gujralanshg@gmail.com)
 <!--
