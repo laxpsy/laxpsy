@@ -3,7 +3,7 @@ I'm Ansh Gujral, a developer currently studying at NIT-Tiruchirappalli currently
 I work in Delta Force, our institutes's web cell. I love to read, and document what I read and also build things ocassionally. 
 
 ### 🤝 My interests
-Anything low-level interests me, and networks as well; Other than that, I'm always open to diving into new tech stacks and learning new stuff. Each project is an opportunity to learn more and grow as a developer :)
+Anything low-level interests me, and networks as well; Other than that, I'm always open to diving into new tech stacks and learning new stuff. I write occasionally, recently I've wrote in lengths about [Regex Parsing](https://www.libraryofbabel.xyz/publications/sew-dec-7), [Git Internals](https://delta.nitt.edu/blogs/git-forklore-part-1). Currently, I'm working on a [text-editor entirely in C](https://github.com/laxpsy/kilo). In the past, I've also worked on [Delta Force's website](https://delta.nitt.edu/). 
 
 ### 🔗 Links
 - [Resume 📰](https://drive.google.com/file/d/1I_H1pEoT_igTbFiBAUDr9lQ3KkMZZZQW/view)
