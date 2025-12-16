@@ -3,6 +3,8 @@ I'm Ansh Gujral, a developer currently studying at NIT-Tiruchirappalli currently
 I love to read, and document what I read and also build things ocassionally. 
 Check my website for my blogs :)
 
+Most of my repos are private :p
+
 ### 🔗 Links
 - [Resume 📰](https://drive.google.com/file/d/1I_H1pEoT_igTbFiBAUDr9lQ3KkMZZZQW/view)
 - [My Website 🌐](https://gujral.life)
